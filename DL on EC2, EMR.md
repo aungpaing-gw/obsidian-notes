@@ -1,0 +1,6 @@
+- EMR supports Apache MXNet and GPU Instance types
+- Appropriate instance types for deep learning
+	- P3 : 8 Tesla V100 GPU's
+	- P2 : 16 K80 GPU's
+	- G3 : 4 M60 GPU's
+- Deep Learning AMI's

@@ -1,0 +1,2 @@
+- Some models prefer feature data to be normally distributed around 0
+- Most models require feature data to at least be scaled to comparable values.

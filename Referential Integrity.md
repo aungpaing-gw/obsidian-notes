@@ -1,0 +1,1 @@
+The process of ensuring that the constraints of table relationships are enforced.

@@ -1,0 +1,1 @@
+The fan-out is defined as the maximum number of inputs (load) that can be connected to the output of a gate without degarding the normal operation.

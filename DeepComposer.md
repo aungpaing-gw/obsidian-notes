@@ -1,0 +1,1 @@
+fully programmable MIDI keyboard that let users play, record, train and generate music using generative adversarial networks

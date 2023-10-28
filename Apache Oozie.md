@@ -1,0 +1,2 @@
+With Amazon EMR release 5.0.0 and later, you can also use Oozie to manage and orchestrate Hadoop jobs.
+User can migrate Oozie from on-premise workloads to EMR and provision the Oozie database using RDS.

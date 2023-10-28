@@ -1,0 +1,1 @@
+ Computing the robot's poses and the map of the environment at the same time.

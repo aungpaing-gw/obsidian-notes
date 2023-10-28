@@ -1,0 +1,3 @@
+- Bucket observations together based on ranges of values
+- Quantile binning categories data by their place in the data distribution
+- Useful when there is uncertainty in the measurements

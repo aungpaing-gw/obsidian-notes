@@ -1,0 +1,1 @@
+The process of detecting and correcting corruptions within data.

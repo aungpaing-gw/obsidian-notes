@@ -1,0 +1,3 @@
+- [https://www.whizlabs.com/aws-certified-machine-learning-specialty/](https://www.whizlabs.com/aws-certified-machine-learning-specialty/)
+- [https://www.examtopics.com/exams/amazon/aws-certified-machine-learning-specialty/](https://www.examtopics.com/exams/amazon/aws-certified-machine-learning-specialty/)
+- [https://docs.aws.amazon.com/sagemaker/latest/dg/common-info-all-im-models.html](https://docs.aws.amazon.com/sagemaker/latest/dg/common-info-all-im-models.html)

@@ -1,0 +1,2 @@
+An Amazon Virtual Private Cloud is a virtual network dedicated to your AWS account.
+With an Amazon VPC, user can control the network access and internet connectivity of user's Amazon SageMaker Studio and notebook instances. You can disable direct internet access to add an additional layer of security.

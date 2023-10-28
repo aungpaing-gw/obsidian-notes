@@ -1,0 +1,4 @@
+- Data Warehouseing, SQL analytics
+- OLAP ( Online analytical processing )
+- Load data from S3 to Redshift
+- Use Redshift Spectrum to query data directly in S3 (no loading)

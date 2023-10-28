@@ -1,0 +1,4 @@
+- [[Comma Separated Values (CSV)]]
+- [[Relational database]]
+- [[JavaScript Object Notation (JSON)]]
+- [[Protocol Buffer (Protobuf)]]
