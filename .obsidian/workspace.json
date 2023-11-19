@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 487.5,
+    "collapsed": true
   },
   "right": {
     "id": "858c069c571af21a",
@@ -145,11 +146,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "576bbfa7041b4819",
+  "active": "f1ffb96fa8aad2ae",
   "lastOpenFiles": [
     "books/matrixcookbook.pdf",
-    "papers/detection/maskrcnn.pdf",
     "books/deeplearningbook.pdf",
+    "deeplearningbook_2_Linear_algebra.md",
+    "Untitled.md",
+    "Athena.md",
+    "papers/detection/maskrcnn.pdf",
     "books",
     "Attention is all you need.md",
     "papers/general/attention_is_all_you_need.pdf",
